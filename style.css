@@ -1,0 +1,39 @@
+body{
+   
+    background-size: cover;
+   background-color: rgb(68, 0, 255);
+   font-family: 'Fredoka One', cursive;
+   background-image: url("forest\ of\ ducks.webp");
+    background-image: url("duck.gif");
+}
+
+.header_div{
+    background: white;
+    color:darkcyan;
+}
+.header_div p{
+    font-family: 'Diplomata', cursive;
+    font-size: 12px;
+    font-weight: bold;
+    letter-spacing: 2px;
+}
+
+.main_div button{
+    font-family: 'Diplomata', cursive;
+    margin-top:30px;    
+    width: 130px;
+    letter-spacing: 3px;
+    font-weight: bolder;
+}
+
+.copy_right_footer{
+    position:fixed;
+    width: 100%;
+    bottom: 0;
+    text-align: center;
+    background-color:green;
+    font-size: 18px;
+    line-height: 1;
+    text-shadow:5px 5px 5px rgb(255, 252, 47);
+
+}
